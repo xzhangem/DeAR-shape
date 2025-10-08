@@ -34,4 +34,17 @@ Run the following script to train model on pancreas dataset:
 `python train.py --opt options/train/pancreas.yaml `
 
 #### DeAR-FUSS for downstream tasks
+Also with pancreas dataset, run the script for surface reconstruction (registration) with geometrical metric and SSM calculation:
+
+`python compare_test.py`
+
+For interpolation experiment, run the script:
+
+`python shape_interpolate.py`
+
+For deformation transfer experiment, run the script:
+
+`python shape_explorate.py`
+
+
 
