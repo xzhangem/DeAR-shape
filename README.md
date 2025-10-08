@@ -9,5 +9,5 @@ We highly recommend using Anaconda enviornment with available NVIDIA graphics ca
 ### Descriptions
 
 The workflow of the proposed work is summarzied in the figure below:
-![image]()
+![image](https://github.com/xzhangem/DeAR-shape/blob/main/Figures/DeAR_figure.jpg)
 
