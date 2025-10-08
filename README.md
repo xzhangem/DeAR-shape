@@ -8,6 +8,6 @@ We highly recommend using Anaconda enviornment. The basic packages include PyTor
 
 ### Descriptions
 
-The graphical abstract of the proposed DeAR shape metric is summarzied in the figure below:
-![image](https://github.com/xzhangem/DeAR-shape/blob/main/Figures/DeAR_figure.jpg)
+The graphical abstract of the proposed DeAR shape metric is summarzied in the figure below
+![image](https://github.com/xzhangem/DeAR-shape/blob/main/Figures/DeAR_figure.jpg). DeAR shape metric can be used for optimization-based Riemannian statistical shape model (DeAR-OP) and deep learning-based displacement field shape model (DeAR-FUSS).
 
