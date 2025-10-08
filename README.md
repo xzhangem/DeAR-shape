@@ -19,10 +19,10 @@ DeAR shape metric can be used for optimization-based Riemannian statistical shap
 DeAR-FUSS is based on [FUSS](https://github.com/NafieAmrani/FUSS) model, and included in File [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS). The data processing takes the following steps: (1) Make data file with filename data (In [FUSS](https://github.com/NafieAmrani/FUSS), this file is ../data by default); (2) For different kinds of anatomical surfaces, we suggest using its name as the file name, and the mesh data are in off file. The name of each mesh is "organ name_sample_num.off". Take pancreas data as example: 
 
 ```
-|---- data
-   | ----pancreas
-        |---- off
-           |---- pancreas_001.off
+├── data
+   ├── pancreas
+        ├── off
+           ├── pancreas_001.off
 ```
 
 
