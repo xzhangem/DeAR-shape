@@ -16,5 +16,5 @@ DeAR shape metric can be used for optimization-based Riemannian statistical shap
 DeAR-OP file contains the demo of surface registration, interpolation, deformation transfer and nonlinear statistical shape analysis.
 
 #### DeAR-FUSS
-DeAR-FUSS is based on [FUSS](https://github.com/NafieAmrani/FUSS) model. 
+DeAR-FUSS is based on [FUSS](https://github.com/NafieAmrani/FUSS) model, and included in File DeAR-OP. 
 
