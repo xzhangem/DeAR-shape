@@ -24,5 +24,7 @@ DeAR-FUSS is based on [FUSS](https://github.com/NafieAmrani/FUSS) model, and inc
         ├── off
            ├── pancreas_001.off
 ```
+Then under [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS) file, run the script using pancreas dataset as follow:
 
+`python preprocess.py --data_root ../data/pancreas/ --n_eig 200`
 
