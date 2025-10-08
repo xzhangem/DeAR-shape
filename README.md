@@ -28,3 +28,10 @@ Then under [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUS
 
 `python preprocess.py --data_root ../data/pancreas/ --n_eig 200`
 
+##### DeAR-FUSS training 
+Run the following script to train model on pancreas dataset:
+
+`python train.py --opt options/train/pancreas.yaml `
+
+##### DeAR-FUSS for downstream tasks
+
