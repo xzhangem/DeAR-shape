@@ -36,7 +36,7 @@ Run the following script to train model on pancreas dataset:
 `python train.py --opt options/train/pancreas.yaml `
 
 ### DeAR-FUSS for downstream tasks
-Also with pancreas dataset, we release the trained DeAR-FUSS model [here](https://github.com/xzhangem/DeAR-shape/blob/main/DeAR-FUSS/experiments/fuss_pancreas_dear/models/final.pth).]
+Also with pancreas dataset, we release the trained DeAR-FUSS model [here](https://github.com/xzhangem/DeAR-shape/blob/main/DeAR-FUSS/experiments/fuss_pancreas_dear/models/final.pth).
 
 For surface reconstruction (registration) with geometrical metric:
 
