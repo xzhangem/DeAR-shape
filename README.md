@@ -48,7 +48,7 @@ For deformation transfer experiment, run the script:
 
 `python shape_explorate.py`
 
-The experiments results are stored in results file. 
+The experiments results are stored in [results](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS/results) file. 
 
 ## Acknowledgements
 The implementation of [DeAR-OP](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-OP) is adapted from [H2_SurfaceMatch](https://github.com/emmanuel-hartman/H2_SurfaceMatch), and implementation of [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS) is adpated from [FUSS](https://github.com/NafieAmrani/FUSS). 
