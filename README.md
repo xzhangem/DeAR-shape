@@ -36,7 +36,7 @@ Run the following script to train model on pancreas dataset:
 `python train.py --opt options/train/pancreas.yaml `
 
 ### DeAR-FUSS for downstream tasks
-Also with pancreas dataset, run the script for surface reconstruction (registration) with geometrical metric and SSM calculation:
+Also with pancreas dataset, run the script for surface reconstruction (registration) with geometrical metric:
 
 `python compare_test.py`
 
