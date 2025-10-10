@@ -15,7 +15,7 @@ The graphical abstract of the proposed DeAR shape metric is summarzied in the fi
 DeAR shape metric can be used for optimization-based Riemannian statistical shape model ([DeAR-OP](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-OP)) and deep learning-based displacement field shape model ([DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS)).
 
 ## DeAR-OP
-[DeAR-OP](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-OP) file contains the demo of surface registration & interpolation, deformation transfer and nonlinear statistical shape analysis.
+[DeAR-OP](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-OP) file contains the demo of [surface registration/reconstruction](https://github.com/xzhangem/DeAR-shape/blob/main/DeAR-OP/dear_test.py) & interpolation, deformation transfer and nonlinear statistical shape analysis.
 
 ## DeAR-FUSS
 DeAR-FUSS is based on [FUSS](https://github.com/NafieAmrani/FUSS) model, and included in File [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS). The data processing takes the following steps: (1) Make data file with filename data (Take ./data by default); (2) For different kinds of anatomical surfaces, we suggest using its name as the file name, and the mesh data are in off file. The name of each mesh is "organ name_sample_num.off". Take pancreas data as example: 
