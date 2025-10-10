@@ -52,7 +52,7 @@ For deformation transfer experiment, run the script:
 
 The experiments results are stored in [results](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS/results) file. 
 
-## Datasets:
+## Datasets
 We use the public datasets [Pancreas](http://medicaldecathlon.com/), [Liver](http://medicaldecathlon.com/), [Thyrold](https://medshapenet.ikim.nrw/), and [Femur](https://www.sciencedirect.com/science/article/pii/S1361841518304882). The processed pancreas data can be available at [Shapeworks](https://sciinstitute.github.io/ShapeWorks/latest/), and the number of Femur data can be found at the appendix of [FCM](https://www.sciencedirect.com/science/article/pii/S1361841521002243). 
 
 ## Acknowledgements
