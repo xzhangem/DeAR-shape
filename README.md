@@ -1,7 +1,7 @@
 # DeAR-shape
 Implementation of "**DeAR**: **De**formation-**A**ware **R**eguarlization Based Anatomical Shape Model".
 
-## Getting Started
+## ☀️: Getting Started
 We highly recommend using Anaconda enviornment. The basic packages include PyTorch, PyKeops, pyg and PyTorch3d, other related tools are included in the pytorch3d.yaml file. You can import the environments via yaml file as follows:
 
 `conda env create -f pytorch3d.yaml`
