@@ -58,7 +58,7 @@ We use the public datasets [Pancreas](http://medicaldecathlon.com/), [Liver](htt
 ## 🙏 Acknowledgements
 The implementation of [DeAR-OP](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-OP) is adapted from [H2_SurfaceMatch](https://github.com/emmanuel-hartman/H2_SurfaceMatch), and implementation of [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS) is adpated from [FUSS](https://github.com/NafieAmrani/FUSS). 
 
-## License
+## 🚀 License
 This repo is licensed under MIT licence.
 
 
