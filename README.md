@@ -55,7 +55,7 @@ The experiments results are stored in [results](https://github.com/xzhangem/DeAR
 ## 📂 Datasets
 We use the public datasets [Pancreas](http://medicaldecathlon.com/), [Liver](http://medicaldecathlon.com/), [Thyroid](https://medshapenet.ikim.nrw/), and [Femur](https://www.sciencedirect.com/science/article/pii/S1361841518304882). The processed pancreas data can be available at [Shapeworks](https://sciinstitute.github.io/ShapeWorks/latest/), and the number of Femur data can be found at the appendix of [FCM](https://www.sciencedirect.com/science/article/pii/S1361841521002243). 
 
-## Acknowledgements
+## 🙏 Acknowledgements
 The implementation of [DeAR-OP](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-OP) is adapted from [H2_SurfaceMatch](https://github.com/emmanuel-hartman/H2_SurfaceMatch), and implementation of [DeAR-FUSS](https://github.com/xzhangem/DeAR-shape/tree/main/DeAR-FUSS) is adpated from [FUSS](https://github.com/NafieAmrani/FUSS). 
 
 ## License
