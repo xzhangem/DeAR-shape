@@ -1,14 +1,14 @@
 # DeAR-shape
 Implementation of "**DeAR**: **De**formation-**A**ware **R**eguarlization Based Anatomical Shape Model".
 
-## ☀️ Getting Started
+## 🐣 Getting Started
 We highly recommend using Anaconda enviornment. The basic packages include PyTorch, PyKeops, pyg and PyTorch3d, other related tools are included in the pytorch3d.yaml file. You can import the environments via yaml file as follows:
 
 `conda env create -f pytorch3d.yaml`
 
 This yaml file may contains too many dependencies beyond DeAR, but it contains the necessary dependencies to re-implement [FlowSSM](https://github.com/davecasp/flowssm) and [Mesh2SSM](https://github.com/iyerkrithika21/mesh2SSM_2023).
 
-## Descriptions
+## ☀️ Descriptions
 
 The graphical abstract of the proposed DeAR shape metric is summarzied in the figure below
 ![image](https://github.com/xzhangem/DeAR-shape/blob/main/Figures/DeAR_figure.jpg)
