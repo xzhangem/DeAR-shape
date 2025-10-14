@@ -6,6 +6,8 @@ We highly recommend using Anaconda enviornment. The basic packages include PyTor
 
 `conda env create -f pytorch3d_new.yaml --name DeAR`
 
+`conda activate DeAR`
+
 This yaml file may contains too many dependencies beyond DeAR, but it contains the necessary dependencies to re-implement [FlowSSM](https://github.com/davecasp/flowssm) and [Mesh2SSM](https://github.com/iyerkrithika21/mesh2SSM_2023).
 
 ## ☀️ Descriptions
